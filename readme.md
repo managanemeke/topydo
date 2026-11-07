@@ -2,7 +2,7 @@
 
 Configuration for [topydo][1].
 
-## How to install? {#installation}
+## How to install?
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/managanemeke/topydo/main/install.sh | bash
